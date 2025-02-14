@@ -24,4 +24,4 @@ I'm Federico, a 19-year-old student developer based in Italy 🇮🇹, and I'm p
 
 ---
 
-[![FedeIlLeone's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeIlLeone&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![fedeericodl's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedeericodl&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
