@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Federico, a 20-year-old student developer based in Italy 🇮🇹, and I'm passionate about tech.
+I'm Federico, a 21-year-old student developer based in Italy 🇮🇹, and I'm passionate about tech.
 
 ### Skills
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
